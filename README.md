@@ -25,4 +25,7 @@ The definition of cognitive psychology is deceivingly simple. Cognitive psycholo
 - Making decisions
 - Solving problems
 - Making choices
- - Meta-cognition (thinking about your thinking)
+- Meta-cognition (thinking about your thinking)
+ 
+### Questions
+1. Think about the UI why and how the UX designer distribute the space like the main content or a list, etc.
