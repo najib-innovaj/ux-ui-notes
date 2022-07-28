@@ -29,3 +29,10 @@ The definition of cognitive psychology is deceivingly simple. Cognitive psycholo
  
 ### Questions
 1. Think about the UI why and how the UX designer distribute the space like the main content or a list, etc.
+
+### UX Design Process
+There are four UX design phases
+1. User Research: We discover users and thier needs here. frustration points, pain points
+2. Define: We define users & associated feature set here.
+3. Ideate: We draw, sketch, wireframe & design here.
+4. Iterate: We test and iterate until we arrive at a greate design. 
