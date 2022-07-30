@@ -32,7 +32,16 @@ The definition of cognitive psychology is deceivingly simple. Cognitive psycholo
 
 ### UX Design Process
 There are four UX design phases
-1. User Research: We discover users and thier needs here. frustration points, pain points
+1. User Research/Empathise: We discover users and thier needs here. frustration points, pain points
 2. Define: We define users & associated feature set here.
 3. Ideate: We draw, sketch, wireframe & design here.
 4. Iterate: We test and iterate until we arrive at a greate design. 
+
+### Empathise/User Research
+Mindset of creating something that solove "User" problem and their "Needs". Two Major Methods to perform user research: 
+1. Qualitative Research
+2. Quantitative Research
+***Quantitative Research:***
+1. We prepare gnerral and specific questionnaires. 2. We do quantitative research when we have minimum budget. We ask general/open ended questions from the client like what are you frustration point/pain point. We send the questionnaires to mass audience (Google, forms, Survery Monkey etc.)
+3. We track the feedback & build a report on it by using google docs notion etc to present to the cleint. 
+4. We drive conversations based on the finding and engage every possible stakeholder to be on the same page. 
