@@ -44,4 +44,17 @@ Mindset of creating something that solove "User" problem and their "Needs". Two 
 ***Quantitative Research:***
 1. We prepare general and specific questionnaires. 2. We do quantitative research when we have minimum budget. We ask general/open ended questions from the client like what are you frustration point/pain point. We send the questionnaires to mass audience (Google, forms, Survery Monkey etc.)
 3. We track the feedback & build a report on it by using google docs notion etc to present to the cleint. 
-4. We drive conversations based on the finding and engage every possible stakeholder to be on the same page. 
+4. We drive conversations based on the finding and engage every possible stakeholder to be on the same page.
+
+***Qualitative Research:***
+1. User personas
+  - Define personality: name, bio, behaviour, profession. We ll define a particular role of that person in the app.
+  - Define Role: Is he using this app by an admin or a general user. 
+  - Define Goals: What's his goal to achieve from this app like Ordering pizza is the goal and customer is the role who is using the app.
+  - Define Motivations: what motivates the person by using this app for what pleasure he come. 
+  - Define Frustrations: what things he get bored or feel frustration from the UX perspective.
+  - Get to Specifics: what are the particular requirments for that app you are building. k ess app k lehaz se es user k personality myn kya hona chahye. personlity will be define for every app. like what's the specific of that app or business model ordering pizza that's the specific like requirment main features of the app.   
+3. Empathy Mapping 
+4. Jobs to be done framework
+5. User journey mapping
+6. one to one user interviews (zoom, skype, google meet or in-person)
