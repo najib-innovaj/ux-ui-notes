@@ -42,6 +42,6 @@ Mindset of creating something that solove "User" problem and their "Needs". Two 
 1. Qualitative Research
 2. Quantitative Research
 ***Quantitative Research:***
-1. We prepare gnerral and specific questionnaires. 2. We do quantitative research when we have minimum budget. We ask general/open ended questions from the client like what are you frustration point/pain point. We send the questionnaires to mass audience (Google, forms, Survery Monkey etc.)
+1. We prepare general and specific questionnaires. 2. We do quantitative research when we have minimum budget. We ask general/open ended questions from the client like what are you frustration point/pain point. We send the questionnaires to mass audience (Google, forms, Survery Monkey etc.)
 3. We track the feedback & build a report on it by using google docs notion etc to present to the cleint. 
 4. We drive conversations based on the finding and engage every possible stakeholder to be on the same page. 
