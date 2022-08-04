@@ -14,7 +14,7 @@ The definition of cognitive psychology is deceivingly simple. Cognitive psycholo
 - Thinking
 - Reasoning
 - Judgment
-- ttention
+- Attention
 - Mental imagery
 - Language
 - Recognizing numbers
@@ -43,7 +43,7 @@ Mindset of creating something that solove "User" problem and their "Needs". Two 
 2. Quantitative Research
 
 ***Quantitative Research:***
-1. We prepare general and specific questionnaires. 2. We do quantitative research when we have minimum budget. We ask general/open ended questions from the client like what are you frustration point/pain point. We send the questionnaires to mass audience (Google, forms, Survery Monkey etc.)
+1. We prepare general and specific questionnaires. 2. We do quantitative research when we have minimum budget. We ask general/open ended questions from the client like what are you frustration point/pain point. We send the questionnaires to mass audience (Google, forms, Survey Monkey etc.)
 3. We track the feedback & build a report on it by using google docs notion etc to present to the cleint. 
 4. We drive conversations based on the finding and engage every possible stakeholder to be on the same page.
 
@@ -55,7 +55,7 @@ Mindset of creating something that solove "User" problem and their "Needs". Two 
   - Define Motivations: what motivates the person by using this app for what pleasure he come. 
   - Define Frustrations: what things he get bored or feel frustration from the UX perspective.
   - Get to Specifics: what are the particular requirments for that app you are building. k ess app k lehaz se es user k personality myn kya hona chahye. personlity will be define for every app. like what's the specific of that app or business model ordering pizza that's the specific like requirment main features of the app.   
-2. Empathy Mapping: Empathy is a tool name. We track what you user say,think does and feels. We can conduct interviews to build an empathy map. We can create empathy map for one or a set of suers. We use the information that comes from emapthy mapping to define our personas.  ![image](https://user-images.githubusercontent.com/11480617/182907472-687106fd-6bae-4432-8c64-a02775df3dd8.png) - Says
+2. Empathy Mapping: The ability to understand someone elese feelings or thoughts in a situation. Empathy is a tool name. We track what you user say,think does and feels. We can conduct interviews to build an empathy map. We can create empathy map for one or a set of suers. We use the information that comes from emapthy mapping to define our personas.  ![image](https://user-images.githubusercontent.com/11480617/182907472-687106fd-6bae-4432-8c64-a02775df3dd8.png) - Says
  - Thinks
  - Does
  - Feels
