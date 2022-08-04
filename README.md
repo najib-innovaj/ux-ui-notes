@@ -61,4 +61,7 @@ Mindset of creating something that solove "User" problem and their "Needs". Two 
  - Feels
 4. Jobs to be done framework
 5. User journey mapping
-6. one to one user interviews (zoom, skype, google meet or in-person)
+6. one to one user interviews (zoom, skype, google meet or in-person).
+
+# Words of mouth
+- Designers in vitnam
