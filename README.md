@@ -60,7 +60,8 @@ Mindset of creating something that solove "User" problem and their "Needs". Two 
  - Does
  - Feels
 4. Jobs to be done framework
-5. User journey mapping
+5. User journey mapping: User journeys are the step by step journey that a suer takes to reach thier goal. This journey will often consist of a number of website pages annd decision points that carry the user from one steop to another.  ![Uploading image.png…]()
+
 6. one to one user interviews (zoom, skype, google meet or in-person).
 
 # Words of mouth
