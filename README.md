@@ -7,7 +7,7 @@ What is UX design? You scroll through a website or you tap on a button and somet
 ### Points
 1. Thougts create patterns
 2. Patterns create actions and actions become behaviours
-3: And behaviour can be studied. And the study of behaviour called pyschology. In UX it's called cognative science. 
+3. And behaviour can be studied. And the study of behaviour called pyschology. In UX it's called cognative science. 
 ### what is Cognative Pyschology? Cognitive Psychology – Definition
 The definition of cognitive psychology is deceivingly simple. Cognitive psychology is defined as the branch of psychology devoted to studying mental processes. What may not be so easy to grasp, though, is how many different types of mental processes there are and how people use them in their unique ways to draw conclusions and make decisions. Thus, cognitive psychology encompasses a very broad range of subjects.
 
@@ -65,3 +65,4 @@ Mindset of creating something that solove "User" problem and their "Needs". Two 
 
 # Words of mouth
 - Designers in vitnam
+- Design muscles mean Analytical + visual design brings creativity not only visual design analytical thinking is important. 
