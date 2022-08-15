@@ -55,13 +55,34 @@ Mindset of creating something that solove "User" problem and their "Needs". Two 
   - Define Motivations: what motivates the person by using this app for what pleasure he come. 
   - Define Frustrations: what things he get bored or feel frustration from the UX perspective.
   - Get to Specifics: what are the particular requirments for that app you are building. k ess app k lehaz se es user k personality myn kya hona chahye. personlity will be define for every app. like what's the specific of that app or business model ordering pizza that's the specific like requirment main features of the app.   
-2. Empathy Mapping: The ability to understand someone elese feelings or thoughts in a situation. Empathy is a tool name. We track what you user say,think does and feels. We can conduct interviews to build an empathy map. We can create empathy map for one or a set of suers. We use the information that comes from emapthy mapping to define our personas.  ![image](https://user-images.githubusercontent.com/11480617/182907472-687106fd-6bae-4432-8c64-a02775df3dd8.png) - Says
+1. User Research/Empathise: The ability to understand someone elese feelings or thoughts in a situation. Empathy is a tool name. We track what you user say,think does and feels. We can conduct interviews to build an empathy map. We can create empathy map for one or a set of suers. We use the information that comes from emapthy mapping to define our personas.  ![image](https://user-images.githubusercontent.com/11480617/182907472-687106fd-6bae-4432-8c64-a02775df3dd8.png)
+
+ - Says
  - Thinks
  - Does
  - Feels
-4. Jobs to be done framework
-5. User journey mapping: User journeys are the step by step journey that a suer takes to reach thier goal. This journey will often consist of a number of website pages annd decision points that carry the user from one steop to another.  ![Uploading image.png…]()
+2. Define
+     1. When we get to this phase. We already have built an understanding about our users and thier needs.
+     2. Now we need to start understanding our brand.
+     3. What is the solution our brand / product is going to provide to satisfy the users and their needs.
+     4. We define what needs to be done within the constraint of time & cost. 
+     5. In the end of the define phase. We have closed requirements & expectations. Now we can get to ideat phase.
 
+3. Ideate: We finally get to the cool part here. The Design.
+  1. We draw user flows, paper sketches / Low fi skecteches.
+  2. The valuable asset we produce in this phase is "Wireframes"
+  3. Then we take the 'wires' and make high fidelity visual deisgns on tiop of it.
+  4. We finally link each screen to prototype.
+  5. Low fidility means sketches which draw by hand and high fidility are those which they high visuals. 
+
+4. Iterate: Now, we have designed. It's time to give it a test drive.
+   1. We send our prototypes to the stakeholders and users to test.
+   2. We collect the information based on the feedback and reflect the feedback in the next iteration. 
+   3. This process is repetitive until we finally arrive at a design.
+   4. Iteration is part of the whole UX & UI process. 
+5. Jobs to be done framework
+6. User journey mapping: User journeys are the step by step journey that a suer takes to reach thier goal. This journey will often consist of a number of website pages annd decision points that carry the user from one steop to another. 
+![image](https://www.awesomescreenshot.com/image/31391754?key=4c3c05fc98a5f76a4fce4ead9bc5e961)
 6. one to one user interviews (zoom, skype, google meet or in-person).
 
 # Words of mouth
