@@ -61,29 +61,72 @@ Mindset of creating something that solove "User" problem and their "Needs". Two 
  - Thinks
  - Does
  - Feels
-2. Define
+2. ***Define***
      1. When we get to this phase. We already have built an understanding about our users and thier needs.
      2. Now we need to start understanding our brand.
      3. What is the solution our brand / product is going to provide to satisfy the users and their needs.
      4. We define what needs to be done within the constraint of time & cost. 
      5. In the end of the define phase. We have closed requirements & expectations. Now we can get to ideat phase.
 
-3. Ideate: We finally get to the cool part here. The Design.
-  1. We draw user flows, paper sketches / Low fi skecteches.
-  2. The valuable asset we produce in this phase is "Wireframes"
-  3. Then we take the 'wires' and make high fidelity visual deisgns on tiop of it.
-  4. We finally link each screen to prototype.
-  5. Low fidility means sketches which draw by hand and high fidility are those which they high visuals. 
+3. ***Ideate:*** We finally get to the cool part here. The Design.
+   1. We draw user flows, paper sketches / Low fi skecteches.
+   2. The valuable asset we produce in this phase is "Wireframes"
+   3. Then we take the 'wires' and make high fidelity visual deisgns on tiop of it.
+   4. We finally link each screen to prototype.
+   5. Low fidility means sketches which draw by hand and high fidility are those which they high visuals. 
 
-4. Iterate: Now, we have designed. It's time to give it a test drive.
+4. ***Iterate:*** Now, we have designed. It's time to give it a test drive.
    1. We send our prototypes to the stakeholders and users to test.
    2. We collect the information based on the feedback and reflect the feedback in the next iteration. 
    3. This process is repetitive until we finally arrive at a design.
    4. Iteration is part of the whole UX & UI process. 
 5. Jobs to be done framework
-6. User journey mapping: User journeys are the step by step journey that a suer takes to reach thier goal. This journey will often consist of a number of website pages annd decision points that carry the user from one steop to another. 
+6. User journey mapping: User journeys are the step by step journey that a user takes to reach thier goal. This journey will often consist of a number of website pages annd decision points that carry the user from one steop to another. 
 ![image](https://www.awesomescreenshot.com/image/31391754?key=4c3c05fc98a5f76a4fce4ead9bc5e961)
 6. one to one user interviews (zoom, skype, google meet or in-person).
+7. What is brain mapping: Let's say you have provided a scenario and trying to understand the scenario or I would simply say understand the whole idea of the client what can be done the client can correct your mistake or the whole idea what he wants. On the basis of Brain mapping we make a flow chart. 
+
+
+### Industry standard tools for Screen Designs
+
+1. Adobe XD
+2. Figma
+3. Sketch
+4. Invision Studio 
+5. Photoshop
+6. Illustrator
+7. Principlformac (animations)
+8. protopie
+9. zeplin for web developer
+10. Framer X (no code platform)
+11. Web Flow to design and get the code
+
+### Industry standard tools for Flows & Wireframes
+
+1. Adobe XD
+2. Balsamiq (quick wireframe )
+3. Figma
+4. Sketch
+5. Photoshop
+6. Wireframe.cc (very basic & online)
+
+### Industry standard tools for Design Collaboration (take surveys, discussion with client, opinion)
+
+1. Adobe XD
+2. Figma (Best for Collobration & easy to use it)
+3. Miro (it has big canvas size show complete product with comments/collobration)
+4. Notion (use for collobration as well for project managment)
+5. Invision (Prototyping with linking)
+
+### IPad/Tablet apps for Sketching & Brain Storming
+
+1. Concept App
+2. Notes/Any note taking app
+3. Pro Create
+4. Notability
+5. Affinity Designer (alternative of illustrator)
+
+***What is sprint:*** A sprint is part of the core components of the agile methodology. The term refers to a predefined span of time in which a team will work to accomplish specific goals. This period may be any length, though sprints are usually fairly short (one or two weeks, for example).
 
 # Words of mouth
 - Designers in vitnam
