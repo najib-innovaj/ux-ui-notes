@@ -126,6 +126,14 @@ Mindset of creating something that solove "User" problem and their "Needs". Two 
 4. Notability
 5. Affinity Designer (alternative of illustrator)
 
+### Folks who wants to have their career in UX Research should consider exploring the tools below: 
+
+1. For surveys: SurveyMonkey, Typeform, Usabilla
+2. For analytics and heatmaps: Hotjar, Google Analytics, Kissmetrics
+3. For documenting research: Dovetail, Notion, Google Docs, Evernote
+4. For transcriptions: Otter.ai, Rev, Reduct
+5. For remote user testing: Zoom, Google Meet/Hangouts
+
 ***What is sprint:*** A sprint is part of the core components of the agile methodology. The term refers to a predefined span of time in which a team will work to accomplish specific goals. This period may be any length, though sprints are usually fairly short (one or two weeks, for example).
 
 # Words of mouth
