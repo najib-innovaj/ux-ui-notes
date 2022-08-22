@@ -136,6 +136,15 @@ Mindset of creating something that solove "User" problem and their "Needs". Two 
 
 ***What is sprint:*** A sprint is part of the core components of the agile methodology. The term refers to a predefined span of time in which a team will work to accomplish specific goals. This period may be any length, though sprints are usually fairly short (one or two weeks, for example).
 
+### What makes a good design?
+   1. Content is King
+   2. Layout
+   3. Form or Shapes
+   4. Colours
+   5. Typography
+   6. Images
+   7. Space
+
 # Words of mouth
 - Designers in vitnam
 - Design muscles mean Analytical + visual design brings creativity not only visual design analytical thinking is important. 
