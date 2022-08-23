@@ -137,13 +137,13 @@ Mindset of creating something that solove "User" problem and their "Needs". Two 
 ***What is sprint:*** A sprint is part of the core components of the agile methodology. The term refers to a predefined span of time in which a team will work to accomplish specific goals. This period may be any length, though sprints are usually fairly short (one or two weeks, for example).
 
 ### What makes a good design?
-   1. Content is King
-   2. Layout
+   1. Content is King: Content gives you the context. what is the information that you are designing for. It deponds what's the design about it like app for kids etc then you decide fonts for that. Ask content from the client to make clear the context to design it based on the infromation cient give you. 
+   2. Layout: Do research on behance, dribble, pinterst now you have context. 
    3. Form or Shapes
    4. Colours
    5. Typography
    6. Images
-   7. Space
+   7. Space: Very very important. It's not about you plac e in a design its about what are the spaces you created. It's not about to take in, in the design it's about to take it out from the design and still it looks beautiful.  
 
 # Words of mouth
 - Designers in vitnam
