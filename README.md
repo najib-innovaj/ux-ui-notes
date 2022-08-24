@@ -147,4 +147,23 @@ Mindset of creating something that solove "User" problem and their "Needs". Two 
 
 # Words of mouth
 - Designers in vitnam
-- Design muscles mean Analytical + visual design brings creativity not only visual design analytical thinking is important. 
+- Design muscles mean Analytical + visual design brings creativity not only visual design analytical thinking is important.
+1. 🔶 Communicate the Value of Your Work
+You're a designer, right?
+You know that clients don't care about typefaces, gradients and kerning.
+They hired you to take care of that stuff.
+What they really want to know is how you can help them make more money.
+And the best way to do that is by showing them how your design is going to make their business more efficient and increase profits.
+2. ♦️ You have to know how your designs can make money
+Here are some examples:
+How does this design help users find what they're looking for faster?
+How does this design bring in more leads?
+How does this design bring in more donors?
+3. 🔶 Position yourself as a business owner but be a creator
+Take my example, I built my Instagram from 0 to 50K in 8 months, it made me $25,000 personally but generated $245,989 for my agency!
+How? I established myself as a UI UX expert on Instagram, companies saw my valuable posts, saw my sponsored posts and offered me contracts which I redirected to my agency!
+and agencies charge 3X compared to a normal freelancer,
+provide more value and have systems built in!
+4. 🔷 Delivering exceptional work!
+This year, I worked with a Shopify SaaS product and we completely re-designed their decks, products, and brand! Our deck design helped the company close $5M in funding!!!
+The owner had 16 friends whom she referred to me because they were asking, who did your deck! 
