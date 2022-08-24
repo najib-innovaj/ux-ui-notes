@@ -146,6 +146,7 @@ Mindset of creating something that solove "User" problem and their "Needs". Two 
    7. Space: Very very important. It's not about you plac e in a design its about what are the spaces you created. It's not about to take in, in the design it's about to take it out from the design and still it looks beautiful.  
 
 # Words of mouth
+- Experimentation is the key in the desiging otherwise it won't improve. 
 - Designers in vitnam
 - Design muscles mean Analytical + visual design brings creativity not only visual design analytical thinking is important.
 1. 🔶 Communicate the Value of Your Work
