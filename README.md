@@ -167,4 +167,5 @@ and agencies charge 3X compared to a normal freelancer,
 provide more value and have systems built in!
 4. 🔷 Delivering exceptional work!
 This year, I worked with a Shopify SaaS product and we completely re-designed their decks, products, and brand! Our deck design helped the company close $5M in funding!!!
-The owner had 16 friends whom she referred to me because they were asking, who did your deck! 
+The owner had 16 friends whom she referred to me because they were asking, who did your deck!
+- Design icon in the grid take 25/25 width height and icon must be in this grid. 
