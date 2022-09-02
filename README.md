@@ -170,3 +170,4 @@ This year, I worked with a Shopify SaaS product and we completely re-designed th
 The owner had 16 friends whom she referred to me because they were asking, who did your deck!
 - Design icon in the grid take 25/25 width height and icon must be in this grid.
 - Fail fast -> learn fast -> improve fast
+- Healthy Culture heal broken process. 
