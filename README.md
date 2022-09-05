@@ -143,7 +143,17 @@ Mindset of creating something that solove "User" problem and their "Needs". Two 
    4. Colours
    5. Typography
    6. Images
-   7. Space: Very very important. It's not about you plac e in a design its about what are the spaces you created. It's not about to take in, in the design it's about to take it out from the design and still it looks beautiful.  
+   7. Space: Very very important. It's not about you plac e in a design its about what are the spaces you created. It's not about to take in, in the design it's about to take it out from the design and still it looks beautiful. 
+   
+  ### UI Rules
+  
+  - Header paragraph text: Text under the heading is called header paragraph text.
+   
+   
+   
+   
+   
+   
 
 # Words of mouth
 - Experimentation is the key in the desiging otherwise it won't improve. 
