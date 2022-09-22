@@ -185,4 +185,7 @@ The owner had 16 friends whom she referred to me because they were asking, who d
 ### Psychology of Diversity and Unconscious Bias
 
 
+- ***Stereotypes***: Beliefs we hold about the attributes or characteristics that other groups are likely to have.
+- ***Prejudice***: Negative feelings people have about other groups. It has to do all with the negative reaction. 
+- ***Descriminations***:Treating people differently based on the group that thery from. Descrimination is what people do their behaviour and actions towards people. 
 - ***Unconscious Bias :*** Favoring those who have similar interests or backgrounds can lead to unconscious bias in recruitment. For example, a hiring manager prefers a job applicant who grew up in the same city.
