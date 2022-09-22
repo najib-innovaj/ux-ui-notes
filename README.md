@@ -181,3 +181,8 @@ The owner had 16 friends whom she referred to me because they were asking, who d
 - Design icon in the grid take 25/25 width height and icon must be in this grid.
 - Fail fast -> learn fast -> improve fast
 - Healthy Culture heal broken process. 
+
+### Psychology of Diversity and Unconscious Bias
+
+
+- ***Unconscious Bias :*** Favoring those who have similar interests or backgrounds can lead to unconscious bias in recruitment. For example, a hiring manager prefers a job applicant who grew up in the same city.
