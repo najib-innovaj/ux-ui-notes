@@ -196,7 +196,13 @@ The owner had 16 friends whom she referred to me because they were asking, who d
 ### course 1: Foundation of User Experince
 
 ***Empathy:*** Empathy is the ability to understand someone else's feelings or thoughts in a situation, and it's a major part of UX.
-- User experince careers: https://www.coursera.org/learn/foundations-user-experience-design/supplement/7o3K0/user-experience-careers. 
+- User experince careers: https://www.coursera.org/learn/foundations-user-experience-design/supplement/7o3K0/user-experience-careers.
+***Resources links***
+- https://www.nngroup.com/articles/
+- https://uxdesign.cc/
+- https://xd.adobe.com/ideas/?sdid=61PM7WSH&mv=social&mv2=ownsoc-org
+- https://www.interaction-design.org/literature
+- https://docs.google.com/presentation/d/1s9kI5B3Dzj5vP6at6dhqhxyR3w22UZ67ekij0GiHpeI/edit#slide=id.gd800de29cc_0_249
 
 ### Jobs in the field of user experience
 - There are many different kinds of UX designers: interaction designers, visual designers, and motion designers. Let's start with interaction designers, who focus on designing the experience of a product and how it functions.
