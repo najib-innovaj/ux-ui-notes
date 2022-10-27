@@ -223,3 +223,10 @@ Every new product, whether it’s an app or a physical object, follows a specifi
 - ***Test***: The fourth stage is test. In the test stage, the team evaluates the product design based on feedback from potential users. Testing designs with users is really important because it helps the team focus on the user first and foremost and the designs second. Testing helps identify areas to refine or improve the designs. It also helps UX designers consider the interactivity of the design. This is a stage that involves lots of interaction between UX designers and front-end engineers as they figure out ways to create an end product that satisfies users' needs and is practical and functional. They discuss things like how the color or font can fit the company's brand or whether the prototype designs are easily understandable.
 - ***Launch***: Finally, the last stage of the product development lifecycle is launch or sharing a finished version of the product with the public. This might involve listing an app in the Google Play Store or Apple's App Store, making a website go live, or putting a physical product on store shelves. Launching can be very satisfying for you and your team because you have the chance to understand how your designs will be received in the real world. However, the work on a product isn't quite finished after launch. You may still identify opportunities to improve on the designs or learn even more about the user experience based on feedback. This could involve going back to the design or testing stages and figuring out ways to produce a more enhanced version of the product. Now you've been introduced to the five stages in the product development lifecycle: brainstorm, define, design, test, and launch. Coming up, you'll learn about some of the characteristics of a good user experience. Meet you there.
 
+### Characteristics of a good user experience
+- Usable
+- Equitable
+- Enjoyable
+- Useful
+
+[Further Reading](https://www.coursera.org/learn/foundations-user-experience-design/supplement/IXXnj/characteristics-of-a-good-user-experience")
