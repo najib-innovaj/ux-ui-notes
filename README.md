@@ -229,4 +229,5 @@ Every new product, whether it’s an app or a physical object, follows a specifi
 - Enjoyable
 - Useful
 
-[Further Reading](https://www.coursera.org/learn/foundations-user-experience-design/supplement/IXXnj/characteristics-of-a-good-user-experience")
+- [Further Reading](https://www.coursera.org/learn/foundations-user-experience-design/supplement/IXXnj/characteristics-of-a-good-user-experience")
+- [Good Design](https://design.google/library/good-design/")
