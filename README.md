@@ -229,11 +229,7 @@ Every new product, whether it’s an app or a physical object, follows a specifi
 - Enjoyable: The design delights the user and fosters a positive connection with them by addressing user thoughts and feelings
 - Useful: The design solves user problems
 
-![image](https://user-images.githubusercontent.com/11480617/198959583-0bde2db2-8aa4-478d-8fcf-9cc7cac315de.png)
-![image](https://user-images.githubusercontent.com/11480617/198959653-1d1c37fe-af7d-41a5-8e1f-153cca537a1f.png)
-![image](https://user-images.githubusercontent.com/11480617/198959721-486be20f-23ab-40e1-bfb1-dc4f34db2fef.png)
-![image](https://user-images.githubusercontent.com/11480617/198959773-21d235d9-10fd-404c-9fe5-0930ef7c91c8.png)
-
+![Merged_document](https://user-images.githubusercontent.com/11480617/198985609-2defc339-48d6-4b4f-b1a3-5403a158ab1f.png)
 
 - [Further Reading](https://www.coursera.org/learn/foundations-user-experience-design/supplement/IXXnj/characteristics-of-a-good-user-experience")
 - [Good Design](https://design.google/library/good-design/")
