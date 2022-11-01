@@ -233,3 +233,11 @@ Every new product, whether it’s an app or a physical object, follows a specifi
 
 - [Further Reading](https://www.coursera.org/learn/foundations-user-experience-design/supplement/IXXnj/characteristics-of-a-good-user-experience")
 - [Good Design](https://design.google/library/good-design/")
+
+### Responsibilities of entry-level UX designers
+- Researching 
+- wireframing
+- prototyping
+- creating information architecture
+- communicating effectively
+- Entry-level UX designers start their careers by doing a lot of tasks to learn the basics.
